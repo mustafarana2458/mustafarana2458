@@ -21,11 +21,10 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP / scroll animations
-**Backend & Database:** Node.js · PHP · Supabase · PostgreSQL · REST APIs
-**AI & Automation:** n8n · LangGraph · Gemini / OpenAI / Claude APIs · Ollama · Remotion
-**DevOps & Cloud:** Linux · Docker · Nginx · AWS EC2 · Netlify
-
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP / scroll animations
+- **Backend & Database:** Node.js · PHP · Supabase · PostgreSQL · REST APIs
+- **AI & Automation:** n8n · LangGraph · Gemini / OpenAI / Claude APIs · Ollama · Remotion
+- **DevOps & Cloud:** Linux · Docker · Nginx · AWS EC2 · Netlify
 ---
 
 ## 🏗️ Featured Projects
